@@ -15,7 +15,7 @@ if(!file.exists(filefolder))
 }
 if(file.exists(filefolder))
 {
-  print("Hurray ! Zip file is downloaded and unzipped and the location is : ")
+  print("Zip file is downloaded and unzipped and the location is : ")
   print(getwd())
 }
 
